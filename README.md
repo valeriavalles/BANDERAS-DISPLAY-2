@@ -1,4 +1,4 @@
-##Banderas Display##
+## Banderas Display ##
 
 Antes de comenzar con la descripcion 
 definamos el Display, el display mas que todo 
